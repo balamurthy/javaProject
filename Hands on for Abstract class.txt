@@ -1,0 +1,39 @@
+Hands on for Abstract class
+
+
+Create a Abstract class called shape
+
+colour - string
+
+int area
+
+In the constructor accept colour as a parameter and set it as the colour of the class
+
+create an abstract method calcArea();
+
+create a concrete method for setOuterColour(String colour);
+
+
+//Define a child class rectangle that inherits from shape
+
+int l,b,h
+
+call calcarea(result of calculation of the area)
+
+
+
+//Define a child class circle inheriting from shape
+
+int circlearea = 22/7 *
+
+constructor of circle should get the radius for circle area calculation
+
+call calcarea (result of calculation of circle area)
+
+
+
+//Runner class to create the rectangle object and print area of the rectangle
+create the circle object and print area of the circle
+
+
+
