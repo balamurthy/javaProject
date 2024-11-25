@@ -1,4 +1,4 @@
-public class abstractClasses {
+public class abstractClassesRunner {
 	
 	public static void main(String[] args)
 	{
@@ -9,6 +9,10 @@ public class abstractClasses {
 		bike myBike = new bike("Activa",2);
 		myBike.move();
 		myBike.transportMode(false);
+		
+		bus myBus = new bus("TATA",4);
+		myBus.move();
+		myBus.transportMode(true);
 		
 		
 	}
